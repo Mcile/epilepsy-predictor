@@ -1,0 +1,1 @@
+*{margin:0;box-sizing:content-box;-webkit-user-select:none;user-select:none}.vbox{display:flex;flex-direction:column}.hbox{display:flex;flex-direction:row}.expand{flex:1}.fill{width:100%;height:100%}.space-between{justify-content:space-between}.center{place-content:center;place-items:center}label:hover{background-color:#90ee90}
